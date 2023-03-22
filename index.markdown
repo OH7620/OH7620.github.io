@@ -29,8 +29,36 @@ But what is actually going on in Tenderloin? And where are typical spots? The he
 
 
 
+<<<<<<< HEAD
 The attached graph illustrates the distribution of the five most common types of drug crimes within a 24 hours. It is easy to notice that the different types of drug crimes follow mainly the same circadian rhytm. The amount of crimes dives during the morning between 5-6 and increases towards evening.  However, there are small differences between the different types and we definetly want to delve deeper into these differences. E.g. we see that the most common crime, 
 [WHY]
+=======
+
+<embed 
+       type="text/png" 
+       src="Tenderloin_Drug.png"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
+
+BOKEH
+
+BACKGROUND
+
+Tenderloin has a long and colorful history as a home of city's biggest theaters, museums and nightlife. According to Miguel and Matier (2022) Tenderloin was designed as a contaiment zone for crimes more than a hundred years ago. It was all about offering a affordable housing containing mainly small apartments for the ones that don't quite fit into the society. As a result, many bars, restaurants and even brothels moved to the area where the demand was high. As a result, it is one of the city's worse neighborhoods for crime and drug dealing. 
+
+[https://www.sfgate.com/bayarea/article/San-Francisco-s-skid-row-the-Tenderloin-rich-in-9182414.php]
+
+COMMENTS ON THE GRAPH
+
+The attached graph illustrates the distribution of the five most common types of drug crimes within a 24 hours. It is easy to notice that the different types of drug crimes follow mainly the same circadian rhytm. The amount of crimes dives during the morning between 5-6 and increases towards evening. 
+However, there are small differences between the different types of drug crimes and we definetly want to delve deeper into these differences.
+
+We see that crimes related to possession of narcotics paraphernalia peaks between 12pm-13pm which seems quite interesting. Drug paraphernalia includes items used for controlled substances other than marijuana. Maybe this has something to do with the fact that most of people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. Rmemembering the reputation of the residental area, the result is perhaps not as suprising as it might seem at first. 
+>>>>>>> 29a66c617b10d0511484f062fad0378ff9a1cb57
 
 
 
