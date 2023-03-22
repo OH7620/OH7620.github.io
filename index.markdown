@@ -5,29 +5,6 @@
 layout: home
 ---
 
-
-<embed 
-       type="text/html" 
-       src="map.html"
-       width="1100"
-       height="600"
-       >
-</embed>
-
-
-
-
-
-<embed 
-       type="text/png" 
-       src="Tenderloin_Drug.png"
-       width="1100"
-       height="600"
-       >
-</embed>
-
-
-
 BOKEH
 
 BACKGROUND
@@ -41,7 +18,11 @@ COMMENTS ON THE GRAPH
 The attached graph illustrates the distribution of the five most common types of drug crimes within a 24 hours. It is easy to notice that the different types of drug crimes follow mainly the same circadian rhytm. The amount of crimes dives during the morning between 5-6 and increases towards evening. 
 However, there are small differences between the different types of drug crimes and we definetly want to delve deeper into these differences.
 
-We see that crimes related to possession of narcotics paraphernalia peaks between 12pm-13pm which seems quite interesting. Drug paraphernalia includes items used for controlled substances other than marijuana. Maybe this has something to do with the fact that most of people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. Rmemembering the reputation of the residental area, the result is perhaps not as suprising as it might seem at first. 
+We see that crimes related to possession of narcotics paraphernalia which includes items used for controlled substances other than marijuana peaks between 12pm-13pm which seems quite interesting. Maybe this has something to do with the fact that most of people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. Rmemembering the reputation of the residental area, the result is perhaps not as suprising as it might seem at first. 
+
+Selling of base/rock cocaine seems to be highest during the afternoon hours. We are also able to see some increase on the selling and possession volume during the last hours of the day. 
+
+According to the graph, people tend to use most marijuana during the late afternoon and early evening.
 
 
 <embed 
