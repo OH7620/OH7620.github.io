@@ -5,6 +5,29 @@
 layout: home
 ---
 
+
+<embed 
+       type="text/html" 
+       src="map.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
+
+
+
+<embed 
+       type="text/png" 
+       src="Tenderloin_Drug.png"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
+
 BOKEH
 
 BACKGROUND
