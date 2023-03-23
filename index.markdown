@@ -48,23 +48,12 @@ The attached graph illustrates the distribution of the five most common types of
        height="600"
        >
 
- 
-
-[https://www.sfgate.com/bayarea/article/San-Francisco-s-skid-row-the-Tenderloin-rich-in-9182414.php]
-
-COMMENTS ON THE GRAPH
-
-We see that crimes related to possession of narcotics paraphernalia which includes items used for controlled substances other than marijuana peaks between 12pm-13pm which seems quite interesting. Maybe this has something to do with the fact that most of people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. (Or do people use drugs during their lunch hour?? :D) Rmemembering the reputation of the residental area, the result is perhaps not as suprising as it might seem at first. 
-
-Selling of base/rock cocaine seems to be highest between 15pm-19pm so it seems that most of the sellings happens outside the traditional working hours. We are also able to see some increase on the selling volume during the last hours of the day. However it seems quite strange how there can be so big a difference between 10pm-11pm and 11pm-12am. [do people just go to sleep?]
-
-Possession marijuana is also one of the most common type of drug crimes occurring in tenderloin. 
-According to the graph, people tend to use most marijuana during the late afternoon and early evening.
-
 We see that crimes related to possession of narcotics paraphernalia which includes items used for controlled substances other than marijuana peaks between 12pm-13pm which seems quite interesting. Maybe this has something to do with the fact that most of people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. Rmemembering the reputation of the residental area, the result is perhaps not as suprising as it might seem at first. 
 
 Selling of base/rock cocaine seems to be highest during the afternoon hours. We are also able to see some increase on the selling and possession volume during the last hours of the day. While potentially many explanations for this, most of them surely relate to the social characteristics of the neighbourhood. Not only does Tenderloin seem to be a place where a lot of drug addicts reside, the most common types of crimes (selling of drugs and paraphernalia) also suggests that Tenderloin is a place to go from other parts of the city to buy drugs and appliances.
 
+Possession marijuana is also one of the most common type of drug crimes occurring in tenderloin. 
+According to the graph, people tend to use most marijuana during the late afternoon and early evening.
 
 
 Sources:
