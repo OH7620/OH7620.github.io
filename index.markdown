@@ -52,16 +52,17 @@ We see that crimes related to possession of narcotics paraphernalia which includ
 
 Selling of base/rock cocaine seems to be highest during the afternoon hours. We are also able to see some increase on the selling and possession volume during the last hours of the day. While potentially many explanations for this, most of them surely relate to the social characteristics of the neighbourhood. Not only does Tenderloin seem to be a place where a lot of drug addicts reside, the most common types of crimes (selling of drugs and paraphernalia) also suggests that Tenderloin is a place to go from other parts of the city to buy drugs and appliances.
 
-Possession marijuana is also one of the most common type of drug crimes occurring in tenderloin. According to the graph, people tend to use most marijuana during the late afternoon and early evening. Considering the reputation of Tenderloin, one might assume that buyibg marijuana in the area is easy, so the amounts used are also high.
+Possession marijuana is also one of the most common type of drug crimes occurring in tenderloin. According to the graph, people tend to use most marijuana during the late afternoon and early evening. Considering the reputation of Tenderloin, one could assume that buying marijuana from the area is easy, so the amounts used are also high.
 
 
-Tenderloin's situatin regarding drug use seems extremely bad and the problems have contunued for several decades... 
+Tenderloin is undeniably one of the epicenters of San Francisco's drug crimes and this causes numerous adverse effects on the residents and companies in the area. The city has recently strived to stop the the open air drug market in Tenderloin. However, the problems are so serious that tavkling them will require long-term actions from the city. In addition, cleaning the reputation of a residental area takes time. The future will show whether the city manages to get the situation under control. 
+
 
 
 Sources:
 =======
 
-https://abc7news.com/tenderloin-san-francisco-history-crime/11574311/
-[https://www.sfgate.com/bayarea/article/San-Francisco-s-skid-row-the-Tenderloin-rich-in-9182414.php]
+Miguel, K & Matier, P, 2022, Rich history of SF Tenderloin sheds light on containment zone for vice, https://abc7news.com/tenderloin-san-francisco-history-crime/11574311/
+
 
 
