@@ -6,9 +6,6 @@ layout: home
 ---
 
 
-San Francisco's Tenderloin district remains a hub for drug crime
-=======
-
 San Francisco is infamous for its crime levels. Particularly homelessness, prostitution and drug crime are of a first order concern for potential visitors. And perhaps rightly so. Particularly the central district of Tenderloin has historically been a hotspot for crime. Known in popular culture as well as from statistics as a high-crime neighborhood, this is indeed a picture that can be confirmed from the San Francisco crime statistics. 
 
 Tenderloin has a long and colorful history as a home of city's biggest theaters, museums and nightlife. According to Ken Miguel ad Phil Matier (2022) Tenderloin was designed as a containment zone for crimes more than a hundred years ago. It was all about offering a affordable housing containing mainly small apartments for the ones that don't quite fit into the society. As a result, many bars, restaurants and even brothels moved to the area where the demand was high. As a result, it is one of the city's worse neighborhoods for crime and drug dealing. 
@@ -30,11 +27,6 @@ But what is actually going on in Tenderloin? And where are typical spots? The he
 
 
 
-
-
-
-
->>>>>>> 6ba8879d5098c8725418dfa2049c6fe6b84427f9
 
 Looking at the hourly patterns, people tend to use most marijuana during the late afternoon and early evening.
 =======
