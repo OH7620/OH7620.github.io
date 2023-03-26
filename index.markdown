@@ -39,7 +39,7 @@ But what is actually going on in Tenderloin? And where are typical spots? The he
 Looking at the hourly patterns, people tend to use most marijuana during the late afternoon and early evening.
 =======
 
-The attached graph illustrates the distribution of the five most common types of drug crimes within a 24 hours. It is easy to notice that the different types of drug crimes follow mainly the same circadian rhytm. The amount of crimes dives during the morning between 5-6 and increases towards evening. However, there are small differences between the different types of drug crimes and we definetly want to delve deeper into these differences.
+The attached graph illustrates the distribution of the five most common types of drug crimes within 24 hours. It is easy to notice that the different types of drug crimes follow mainly the same circadian rhythm. The amount of crimes dives during the morning between 5-6 and increases towards the evening. However, there are small differences between the different types of drug crimes and we definitely want to delve deeper into these differences.
 
 <embed 
        type="text/html" 
@@ -48,14 +48,14 @@ The attached graph illustrates the distribution of the five most common types of
        height="600"
        >
 
-We see that crimes related to possession of narcotics paraphernalia which includes items used for controlled substances other than marijuana peaks between 12pm-13pm which seems quite interesting. Maybe this has something to do with the fact that most of people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. Rmemembering the reputation of the residental area, the result is perhaps not as suprising as it might seem at first. 
+We see that crimes related to possession of narcotics paraphernalia which includes items used for controlled substances other than marijuana peak between 12-13 pm which seems quite interesting. Maybe this has something to do with the fact that most of the people who do drugs tend not to go to work which means they have time to do drugs also during traditional work hours. Remembering the reputation of the residential area, the result is perhaps not as surprising as it might seem at first. 
 
-Selling of base/rock cocaine seems to be highest during the afternoon hours. We are also able to see some increase on the selling and possession volume during the last hours of the day. While potentially many explanations for this, most of them surely relate to the social characteristics of the neighbourhood. Not only does Tenderloin seem to be a place where a lot of drug addicts reside, the most common types of crimes (selling of drugs and paraphernalia) also suggests that Tenderloin is a place to go from other parts of the city to buy drugs and appliances.
+The selling of base/rock cocaine seems to be highest during the afternoon hours. We are also able to see some increase in the selling and possession volume during the last hours of the day. While potentially many explanations for this, most of them surely relate to the social characteristics of the neighborhood. Not only does Tenderloin seem to be a place where a lot of drug addicts reside, the most the common types of crimes (selling drugs and paraphernalia) also suggest that Tenderloin is a place to go from other parts of the city to buy drugs and appliances.
 
-Possession marijuana is also one of the most common type of drug crimes occurring in tenderloin. According to the graph, people tend to use most marijuana during the late afternoon and early evening. Considering the reputation of Tenderloin, one could assume that buying marijuana from the area is easy, so the amounts used are also high.
+Possession of marijuana is also one of the most common types of drug crimes occurring in the Tenderloin. According to the graph, people tend to use most marijuana during the late afternoon and early evening. Considering the reputation of Tenderloin, one could assume that buying marijuana from the area is easy, so the amounts used are also high.
 
 
-Tenderloin is undeniably one of the epicenters of San Francisco's drug crimes and this causes numerous adverse effects on the residents and companies in the area. The city has recently strived to stop the the open air drug market in Tenderloin. However, the problems are so serious that tavkling them will require long-term actions from the city. In addition, cleaning the reputation of a residental area takes time. The future will show whether the city manages to get the situation under control. 
+Tenderloin is undeniably one of the epicenters of San Francisco's drug crimes and this causes numerous adverse effects on the residents and companies in the area. The city has recently strived to stop the open air drug market in Tenderloin. However, the problems are so serious, that tackling them will require long-term actions from the city and requires investments from the goverment. In addition, cleaning the reputation of residental area takes time. The future will show whether the city manages to get the situation under control. 
 
 
 
